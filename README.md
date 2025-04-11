@@ -1,11 +1,11 @@
-## 介绍
+## Intro
 
 本项目收集了李志的全部公开发行的音乐作品，拥有完整的ID3信息，并提供 AAC 和 Apple Lossless 两种格式的高质量音频文件。
 
 本人只是普通乐迷，收集这些作品只是出于个人兴趣，并方便其他听众，本项目仅供个人欣赏，请勿商用，所有版权归原作者所有。
 
-## 存储地址
-[Hugging Face](https://huggingface.co/datasets/ventuss/nanjing-lizhi)
+## 存储 @Hugging Face
+[ventuss/nanjing-lizhi](https://huggingface.co/datasets/ventuss/nanjing-lizhi)
 
 ## 在线试听
 [WIP]https://ilovenanjing.ventuss.xyz
