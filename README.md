@@ -4,6 +4,8 @@
 
 本人只是普通乐迷，收集这些作品只是出于个人兴趣，并方便其他听众，本项目仅供个人欣赏，请勿商用，所有版权归原作者所有。
 
+![Preview](Preview.PNG)
+
 ## 存储 @Hugging Face
 [ventuss/nanjing-lizhi](https://huggingface.co/datasets/ventuss/nanjing-lizhi)
 
