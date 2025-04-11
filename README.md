@@ -4,9 +4,11 @@
 
 本人只是普通乐迷，收集这些作品只是出于个人兴趣，并方便其他听众，本项目仅供个人欣赏，请勿商用，所有版权归原作者所有。
 
+## 存储地址
+[Hugging Face](https://huggingface.co/datasets/ventuss/nanjing-lizhi)
 
-## 在线 demo
-to be updated
+## 在线试听
+[WIP]https://ilovenanjing.ventuss.xyz
 
 ## 作品列表
 
