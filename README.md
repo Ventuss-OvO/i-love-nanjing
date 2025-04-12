@@ -10,7 +10,7 @@
 [ventuss/nanjing-lizhi](https://huggingface.co/datasets/ventuss/nanjing-lizhi)
 
 ## 在线试听
-[WIP]https://ilovenanjing.ventuss.xyz
+[Vinyl Vue x i-love-nanjing](https://ilovenanjing.ventuss.xyz)
 
 ## 作品列表
 
